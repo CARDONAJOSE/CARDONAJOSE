@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @CARDONAJOSE
 - 👀 I’m interested in Data scientist, Python and ML
-- 🌱 I’m currently learning Docker 
 - 💞️ I’m looking to collaborate on Bioinformatic and ML
 - 📫 How to reach me ...
 

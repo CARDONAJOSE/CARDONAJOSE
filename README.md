@@ -1,6 +1,6 @@
 # <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3g5M2p4bnBxbzdlMGhnb3B1ODR4OXMyYTY5amwya2cyaDU1eHoxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/puiJGJ5TuGQcRenHji/giphy.gif" width="100"/> 👋 Hola!, Salut!, Hi! 
 
-I’m Jose, Data Scientist from colombia currently living in Marseille, France.
+I’m Jose, Data Scientist from colombian currently living in Marseille, France.
 
 - 👀 I’m interested in IA, ML, Python and Bionfirmatic
 - 💞️ I’m looking to collaborate on Bioinformatic and ML

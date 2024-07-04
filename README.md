@@ -2,7 +2,7 @@
 
 I’m Jose, Data Scientist from colombian currently living in Marseille, France.
 
-- 👀 I’m interested in IA, ML, Python and Bionfirmatic
+- 👀 I’m interested in IA, ML, Python and Bionformatic
 - 💞️ I’m looking to collaborate on Bioinformatic and ML
 - 📫 How to reach me ...
 

@@ -3,7 +3,11 @@
 I’m Jose, Data Scientist from colombian currently living in Marseille, France.
 
 - 👀 I’m interested in IA, ML, Python and Bionformatic
+
+- Datavisualization in Power BI
+
 - 💞️ I’m looking to collaborate on Bioinformatic and ML
+
 - 📫 How to reach me ...
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-fabian-cardona-hernandez/)

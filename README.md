@@ -1,27 +1,13 @@
-# <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3g5M2p4bnBxbzdlMGhnb3B1ODR4OXMyYTY5amwya2cyaDU1eHoxYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/puiJGJ5TuGQcRenHji/giphy.gif" width="100"/> 👋 Hola!, Salut!, Hi! 
+# Bonjour, je suis José Cardona 👋
 
-I’m Jose, Data Scientist from colombian currently living in Marseille, France.
+Je suis un développeur passionné avec de l'expérience en  science des données, Machine Learning et visualisation en Power BI. J'adore créer des solutions innovantes et apprendre de nouvelles technologies.
 
-- 👀 I’m interested in IA, ML, Python and Bionformatic
+## Projets Personnels
+- Machine Learning 🤖
+- 👀 Datavisualization en Power BI 📊
+- Web Scraping 🌐
 
-- Datavisualization in Power BI
-
-- 💞️ I’m looking to collaborate on Bioinformatic and ML
-
-- 📫 How to reach me ...
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-fabian-cardona-hernandez/)
-
- 
-## Education
-
-![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
-![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
-![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
-![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
-
-
-## 📚 Frameworks & 📋 Languages
+## Compétences
 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -35,9 +21,30 @@ I’m Jose, Data Scientist from colombian currently living in Marseille, France.
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23ffffff.svg?style=for-the-badge&logo=Streamlit&logoColor=black)
 
 
-## GitHub stats
+- **Langages de Programmation**: Python🐍, R 📊, Swift 🍏
+- **Frameworks**: Scikit-learn, Django, Flask, Streamlit, FastApi
+- **Outils**: Git, Docker, etc. 🛠️
+
+ 
+## Education
+
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)
+![Microsoft Learn](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)
+![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
+
+## Comment Me Contacter
+
+- **LinkedIn**: [votre_profil_linkedin]
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-fabian-cardona-hernandez/)
+
+## Intérêts Personnels
+
+En dehors de la programmation, j'aime lire 📚, voyager ✈️, faire du sport 🏋️.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CARDONAJOSE&layout=compact)
 <!---

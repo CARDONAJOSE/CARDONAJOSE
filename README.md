@@ -38,8 +38,6 @@ Je suis un développeur passionné avec de l'expérience en  science des donnée
 
 ## Comment Me Contacter
 
-- **LinkedIn**: [votre_profil_linkedin]
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-fabian-cardona-hernandez/)
 
 ## Intérêts Personnels

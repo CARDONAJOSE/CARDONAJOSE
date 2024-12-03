@@ -6,6 +6,7 @@ Je suis un développeur passionné avec de l'expérience en  science des donnée
 - Machine Learning 🤖
 - 👀 Datavisualization en Power BI 📊
 - Web Scraping 🌐
+- Automatisation
 
 ## Compétences
 
